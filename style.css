@@ -1,0 +1,32 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+table{
+	width: 65%;
+	height: 700px;
+	text-align: center;
+	background-color:#F1D0EF;
+	transition: all .4s;
+}
+table:hover{
+	font-size: 25px;
+}
+h1{
+	text-align: center;
+	margin: 50px;
+	transition: all .3s;
+	text-shadow: 0px 0px 8px black;
+	color: #fff;
+}
+h1:hover{
+	color: #3DB1EF;
+	font-size: 50px;
+}
+footer{
+	text-align: center;
+	background-color: #000;
+	width: 100%;
+	height: 35px;
+	color: #fff;
+}
